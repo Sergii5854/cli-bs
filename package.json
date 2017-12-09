@@ -1,0 +1,38 @@
+{
+"name": "cli-bs",
+"version": "1.0.1",
+"description": "CLI utility to search",
+"main": "index.js",
+"scripts": {
+"test": "cli-bs"
+},
+"repository": {
+"type": "git",
+"url": "https://github.com/Sergii5854/cli-bs.git"
+},
+"keywords": [
+"fs",
+"path",
+"cli",
+"filesearch",
+"nodejs",
+"js",
+"search",
+"file"
+],
+"bin": {
+"cli-bs": "index.js"
+},
+"author": "Sergii Bondarenko",
+"email": "bondarenko.sergii.i@gmail.com",
+"link": "https://github.com/Sergii5854/cli-bs",
+"license": "ISC",
+"devDependencies": {
+"cli-bs": "^1.0.1"
+},
+"bugs": {
+"url": "https://github.com/Sergii5854/cli-bs/issues/"
+},
+"homepage": "https://github.com/Sergii5854/cli-bs/#readme"
+
+}
