@@ -1,6 +1,6 @@
 {
 "name": "cli-bs",
-"version": "1.0.1",
+"version": "1.0.2",
 "description": "CLI utility to search",
 "main": "index.js",
 "scripts": {
